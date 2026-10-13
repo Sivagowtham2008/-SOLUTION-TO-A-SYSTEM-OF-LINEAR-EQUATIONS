@@ -24,7 +24,8 @@ End the program
 ### B=np.array([5,-3])
 ### C=np.linalg.solve(A,B)
 ### print(C)
-## Output:<img width="369" height="543" alt="Screenshot 2026-10-13 211533" src="https://github.com/user-attachments/assets/c30db923-b35d-4181-875d-e9d87d99cc33" />
+## Output:
+<img width="369" height="543" alt="Screenshot 2026-10-13 211533" src="https://github.com/user-attachments/assets/c30db923-b35d-4181-875d-e9d87d99cc33" />
 
 ## Result:
 Thus the solutions for the linear equations are successfully solved using python program
